@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is skuley!
+
+my work is probably basic but I hope it helps some.
+
+Stay safe and and commit!
+
 <!--
 **skuley/skuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
