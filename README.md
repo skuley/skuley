@@ -2,7 +2,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=skuley&theme=react-dark)](https://github.com/skuley/github-readme-activity-graph)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skuley)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **skuley/skuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
