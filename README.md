@@ -15,7 +15,7 @@
 <div>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuley&repo=U2-Net)](https://github.com/skuley/U2-Net)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuley&repo=DIS-Background-Removement)](https://github.com/skuley/DIS-Background-Removement)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuley&repo=DIS-Background-Removement)](https://github.com/skuley/DIS-Background-Removement.git)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuley&repo=U2-Net)](https://github.com/skuley/U2-Net)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuley&repo=U2-Net)](https://github.com/skuley/U2-Net) -->
   
